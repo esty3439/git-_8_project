@@ -2,6 +2,6 @@ const a=()=>{
     alert("esty")
 }
 
-const c=()=>{
-    alert(`this is c function`)
+const d=()=>{
+    console.log("hello d function")
 }
