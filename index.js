@@ -2,6 +2,6 @@ const a=()=>{
     alert("esty")
 }
 
-const b=(name)=>{
-      alert(`hello ${name}`)
+const c=()=>{
+    alert(`this is c function`)
 }
